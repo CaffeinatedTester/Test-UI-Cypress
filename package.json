@@ -1,0 +1,14 @@
+{
+  "name": "mg-test-ui-framework-cypress",
+  "version": "1.0.0",
+  "description": "E2E UI test framework for MG",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^1.4.2"
+  }
+}
